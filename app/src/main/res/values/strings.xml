@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">telegram Profile</string>
+    <string name="profile_name_text">The Chance</string>
+    <string name="_819_subscribers">819 subscribers</string>
+    <string name="info">info</string>
+    <string name="profile_link">t.me/theChance101</string>
+    <string name="invite_link_hint">Invite Link</string>
+    <string name="notifications">notifications</string>
+    <string name="off">off</string>
+    <string name="media">Media</string>
+    <string name="files">Files</string>
+    <string name="links">Links</string>
+</resources>
